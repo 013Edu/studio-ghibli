@@ -1,0 +1,17 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.container-icones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-icones a img{
+    margin: 0 15px;
+    cursor: pointer;
+}
